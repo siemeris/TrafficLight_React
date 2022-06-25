@@ -6,7 +6,7 @@ import React, {useState} from "react";
 
 //create your first component
 const Home = () => {
-    const [color,funcionBrillo] = useState(null);
+    const [color,funcionBrillo] = useState("verde");
 
     let ColorList = ['rojo', 'ambar', 'verde', 'morado']
     const [counter, setCounter] = useState(0)

@@ -10,3 +10,38 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.semaforoTop {
+    width: 20px;
+    height:60px;
+}
+
+.semaforoLuces {
+    width: 70px;
+    height:190px;
+}
+.luzRoja{
+    height:40px;
+    width:40px;
+}
+.luzAmbar{
+    height:40px;
+    width:40px;
+}
+.luzVerde{
+    height:40px;
+    width:40px;
+}
+
+.luzON{
+    box-shadow: 0 0 20px rgb(244, 244, 68);
+}
+.semaforoLuzMor{
+    width: 70px;
+    height:254px;
+}
+.luzMor{
+    height:40px;
+    width:40px;
+    background-color:blueviolet;
+}
